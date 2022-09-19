@@ -1,0 +1,7 @@
+build/*
+workspace.code-workspace
+__pycache__/*
+*egg-info*
+*.pyc
+*.swp
+*.db 
